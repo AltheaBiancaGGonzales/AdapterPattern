@@ -6,6 +6,7 @@ Adaptee Objects:
 
 AttendanceSystem - Represents an attendance tracking system that needs to be integrated. It has the markAttendance() method.
 GradingSystem - Represents a grading system that requires integration. It has the recordGrades() method.
+
 LibrarySystem - Represents a library management system that needs to be integrated. It has the manageBooks() method.
 
 Target Object:
